@@ -1,0 +1,4 @@
+proc #,saddle energy,prefactor,product,product energy,product prefactor,barrier,rate,repeats,force call minimization,force call saddle
+0,-1773.56820,1.00000e+12,-1,-1773.63493,1.00000e+12,0.05425,1.22665e+11,16,241,211
+1,-1773.56651,1.00000e+12,1,-1773.61695,1.00000e+12,0.05594,1.14898e+11,15,243,181
+2,-1773.55953,1.00000e+12,-1,-1773.61282,1.00000e+12,0.06292,8.76893e+10,0,245,173
