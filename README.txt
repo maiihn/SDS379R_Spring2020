@@ -19,8 +19,7 @@ https://github.com/maiihn/SDS379R_Spring2020/tree/master/Extraction_process/pt-s
 - export.py module : contain functions to export
 https://github.com/maiihn/SDS379R_Spring2020/tree/master/Extraction_process/pt-system/export.py
 
-- script:
-  * fc_export.py : export force calls information for each saddle for each state and sum force call for each state
+- fc_export.py script: export force calls information for each saddle for each state and sum force call for each state
   https://github.com/maiihn/SDS379R_Spring2020/tree/master/Extraction_process/pt-system/fc_export.py
   
 - OUTPUT folder : contain output
@@ -40,11 +39,11 @@ b) Test 2: Six different configuration
   vi) one_hexamer
   https://github.com/maiihn/SDS379R_Spring2020/tree/master/Extraction_process/pt-system/newtest/one_hexamer
   
-  Six folders each contain:
+  Six folders each contains:
   - 10 states from 0 to 9 (not included due to heavy memory)
   - export.py module : contain functions to export
-  - saddle_info.py : export saddle information
-  - state_info.py : export force call and number of saddles information about state
+  - saddle_info.py script : export saddle information
+  - state_info.py script : export force call and number of saddles information about state
   - OUTPUT folder : contain output
   
   
@@ -58,11 +57,11 @@ https://github.com/maiihn/SDS379R_Spring2020/tree/master/Extraction_process/al-s
 b) Bridge-site
 https://github.com/maiihn/SDS379R_Spring2020/tree/master/Extraction_process/al-system/onestate/bridge_site
 
-Two folders each contain:
+Two folders each contains:
 - 10 states from 0 to 9 (not included due to heavy memory)
 - export.py module : contain functions to export
-- saddle_info.py : export saddle information
-- state_info.py : export force call and number of saddles information about state
+- saddle_info.py script : export saddle information
+- state_info.py script : export force call and number of saddles information about state
 - OUTPUT folder : contain output
 
 
@@ -82,8 +81,7 @@ https://github.com/maiihn/SDS379R_Spring2020/tree/master/Analysis_process/Pt-sys
 https://github.com/maiihn/SDS379R_Spring2020/tree/master/Analysis_process/Pt-system/akmc-pt-onlykdb
 https://github.com/maiihn/SDS379R_Spring2020/tree/master/Analysis_process/Pt-system/akmc-pt-kdbransearch
 
-- script:
-  * Force_call.ipynb : compute and plot sum force calls and average force call per saddle
+- Force_call.ipynb notebook : compute and plot sum force calls and average force call per saddle
   https://github.com/maiihn/SDS379R_Spring2020/tree/master/Analysis_process/Pt-system/Force_call.ipynb
 
 b) Test 2: Six different configuration
@@ -101,12 +99,12 @@ b) Test 2: Six different configuration
   vi) one_hexamer
   https://github.com/maiihn/SDS379R_Spring2020/tree/master/Analysis_process/Pt-system/newtest/one_hexamer/OUTPUT
   
-  Six folders each contain:
+  Six folders each contains:
   - 2 folders: onlykdb and ransearch output in Extraction Process
-  - Saddle_fc.ipynb : compute ratio force call between RS and KDB of a saddle versus its barrier
-  - State_saddle.py : compute number of saddles found by RS and KDB and average force call per saddle for each state
+  - Saddle_fc.ipynb notebook: compute ratio force call between RS and KDB of a saddle versus its barrier
+  - State_saddle.ipynb notebook: compute number of saddles found by RS and KDB and average force call per saddle for each state
   
-c) Compute ratio force call between RS and KDB of a saddle versus its barrier for all 60 configurations from b)
+c) Saddle_fc.ipynb notebook : Compute ratio force call between RS and KDB of a saddle versus its barrier for all 60 configurations from b)
 https://github.com/maiihn/SDS379R_Spring2020/blob/master/Analysis_process/Pt-system/newtest/Saddle_fc.ipynb
 
   
@@ -119,11 +117,11 @@ https://github.com/maiihn/SDS379R_Spring2020/tree/master/Analysis_process/Al-sys
 b) Bridge-site
 https://github.com/maiihn/SDS379R_Spring2020/tree/master/Analysis_process/Al-system/bridge_site/OUTPUT
   
-Two folders each contain:
+Two folders each contains:
 - 2 folders: onlykdb and ransearch output in Extraction Process
-- Saddle_fc.ipynb : compute ratio force call between RS and KDB of a saddle versus its barrier
-- State_saddle.py : compute number of saddles found by RS and KDB and average force call per saddle for each state
+- Saddle_fc.ipynb notebook: compute ratio force call between RS and KDB of a saddle versus its barrier
+- State_saddle.ipynb notebook: compute number of saddles found by RS and KDB and average force call per saddle for each state
 
-Compute ratio force call between RS and KDB of a saddle versus its barrier for all 20 configurations from a) and b)
+c) Saddle_fc.ipynb notebook : Compute ratio force call between RS and KDB of a saddle versus its barrier for all 20 configurations from a) and b)
 https://github.com/maiihn/SDS379R_Spring2020/blob/master/Analysis_process/Al-system/Saddle_fc.ipynb
 
