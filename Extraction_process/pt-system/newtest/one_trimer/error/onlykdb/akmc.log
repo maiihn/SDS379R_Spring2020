@@ -1,0 +1,209 @@
+2020-04-21 10:14:46 INFO:akmc: Eon version svn revision 2446
+
+2020-04-21 10:14:46 WARNING:statelist: State list path does not exist; Creating: .//states/
+2020-04-21 10:14:46 DEBUG:matplotlib: $HOME=/home/maiihn
+2020-04-21 10:14:46 DEBUG:matplotlib: CONFIGDIR=/home/maiihn/.config/matplotlib
+2020-04-21 10:14:46 DEBUG:matplotlib: matplotlib data path: /usr/local/lib/python3.7/site-packages/matplotlib/mpl-data
+2020-04-21 10:14:46 DEBUG:matplotlib: loaded rc file /usr/local/lib/python3.7/site-packages/matplotlib/mpl-data/matplotlibrc
+2020-04-21 10:14:46 DEBUG:matplotlib: matplotlib version 3.1.3
+2020-04-21 10:14:46 DEBUG:matplotlib: interactive is False
+2020-04-21 10:14:46 DEBUG:matplotlib: platform is linux
+2020-04-21 10:14:46 DEBUG:matplotlib: loaded modules: ['sys', 'builtins', '_frozen_importlib', '_imp', '_thread', '_warnings', '_weakref', 'zipimport', '_frozen_importlib_external', '_io', 'marshal', 'posix', 'encodings', 'codecs', '_codecs', 'encodings.aliases', 'encodings.utf_8', '_signal', '__main__', 'encodings.latin_1', 'io', 'abc', '_abc', 'site', 'os', 'stat', '_stat', 'posixpath', 'genericpath', 'os.path', '_collections_abc', '_sitebuiltins', '_bootlocale', '_locale', 'types', 'importlib', 'importlib._bootstrap', 'importlib._bootstrap_external', 'warnings', 'importlib.util', 'importlib.abc', 'importlib.machinery', 'contextlib', 'collections', 'operator', '_operator', 'keyword', 'heapq', '_heapq', 'itertools', 'reprlib', '_collections', 'functools', '_functools', 'google', 'mpl_toolkits', 'ruamel', 'sphinxcontrib', 'encodings.cp437', 'eon', 'eon.main', 'glob', 're', 'enum', 'sre_compile', '_sre', 'sre_parse', 'sre_constants', 'copyreg', 'fnmatch', 'eon.akmc', 'math', 'configparser', 'collections.abc', 'shutil', 'errno', 'zlib', 'bz2', '_compression', 'threading', 'time', 'traceback', 'linecache', 'tokenize', 'token', '_weakrefset', '_bz2', 'lzma', '_lzma', 'pwd', 'grp', 'optparse', 'textwrap', 'gettext', 'locale', 'logging', 'weakref', 'string', '_string', 'atexit', 'logging.handlers', 'socket', '_socket', 'selectors', 'select', 'pickle', 'struct', '_struct', '_compat_pickle', '_pickle', 'queue', '_queue', 'copy', 'numpy', '__future__', 'numpy._globals', 'numpy.__config__', 'numpy.version', 'numpy._distributor_init', 'numpy.core', 'numpy.core.multiarray', 'numpy.core.overrides', 'datetime', '_datetime', 'numpy.core._multiarray_umath', 'numpy.compat', 'numpy.compat._inspect', 'numpy.compat.py3k', 'pathlib', 'ntpath', 'urllib', 'urllib.parse', 'numpy.core.umath', 'numpy.core.numerictypes', 'numbers', 'numpy.core._string_helpers', 'numpy.core._type_aliases', 'numpy.core._dtype', 'numpy.core.numeric', 'numpy.core.shape_base', 'numpy.core._asarray', 'numpy.core.fromnumeric', 'numpy.core._methods', 'numpy.core._exceptions', 'numpy.core._ufunc_config', 'numpy.core.arrayprint', 'numpy.core.defchararray', 'numpy.core.records', 'numpy.core.memmap', 'numpy.core.function_base', 'numpy.core.machar', 'numpy.core.getlimits', 'numpy.core.einsumfunc', 'numpy.core._add_newdocs', 'numpy.core._multiarray_tests', 'numpy.core._dtype_ctypes', '_ctypes', 'ctypes', 'ctypes._endian', 'numpy.core._internal', 'platform', 'subprocess', 'signal', '_posixsubprocess', 'numpy._pytesttester', 'numpy.lib', 'numpy.lib.mixins', 'numpy.lib.scimath', 'numpy.lib.type_check', 'numpy.lib.ufunclike', 'numpy.lib.index_tricks', 'numpy.matrixlib', 'numpy.matrixlib.defmatrix', 'ast', '_ast', 'numpy.linalg', 'numpy.linalg.linalg', 'numpy.lib.twodim_base', 'numpy.linalg.lapack_lite', 'numpy.linalg._umath_linalg', 'numpy.lib.function_base', 'numpy.lib.histograms', 'numpy.lib.stride_tricks', 'numpy.lib.nanfunctions', 'numpy.lib.shape_base', 'numpy.lib.polynomial', 'numpy.lib.utils', 'numpy.lib.arraysetops', 'numpy.lib.npyio', 'numpy.lib.format', 'numpy.lib._datasource', 'numpy.lib._iotools', 'numpy.lib.financial', 'decimal', '_decimal', 'numpy.lib.arrayterator', 'numpy.lib.arraypad', 'numpy.lib._version', 'numpy.fft', 'numpy.fft._pocketfft', 'numpy.fft._pocketfft_internal', 'numpy.fft.helper', 'numpy.polynomial', 'numpy.polynomial.polynomial', 'numpy.polynomial.polyutils', 'numpy.polynomial._polybase', 'numpy.polynomial.chebyshev', 'numpy.polynomial.legendre', 'numpy.polynomial.hermite', 'numpy.polynomial.hermite_e', 'numpy.polynomial.laguerre', 'numpy.random', 'numpy.random._pickle', 'numpy.random.mtrand', 'cython_runtime', 'numpy.random._bit_generator', '_cython_0_29_14', 'numpy.random._common', 'secrets', 'base64', 'binascii', 'hmac', '_hashlib', 'hashlib', '_blake2', '_sha3', 'random', 'bisect', '_bisect', '_random', 'numpy.random._bounded_integers', 'numpy.random._mt19937', 'numpy.random._philox', 'numpy.random._pcg64', 'numpy.random._sfc64', 'numpy.random._generator', 'numpy.ctypeslib', 'numpy.ma', 'numpy.ma.core', 'numpy.ma.extras', 'eon.version', 'eon.config', 'yaml', 'yaml.error', 'yaml.tokens', 'yaml.events', 'yaml.nodes', 'yaml.loader', 'yaml.reader', 'yaml.scanner', 'yaml.parser', 'yaml.composer', 'yaml.constructor', 'yaml.resolver', 'yaml.dumper', 'yaml.emitter', 'yaml.serializer', 'yaml.representer', 'eon.communicator', 'array', 'tarfile', 'eon.locking', 'eon.akmcstatelist', 'eon.atoms', 'eon.akmcstate', 'eon.fileio', 'eon.state', 'eon.statelist', 'eon.explorer', 'eon.displace', 'eon.recycling', 'eon.eon_kdb', 'eon.superbasinscheme', 'eon.superbasin', 'eon.mcamc', 'eon.mcamc.mcamc', 'eon.askmc', 'eon.movie', 'eon.basinhopping', 'eon.parallelreplica', 'eon.prstatelist', 'eon.prstate', 'eon.escaperate', 'code', 'codeop', 'kdb', 'kdb.aselite', 'kdb.local_db', 'sqlite3', 'sqlite3.dbapi2', '_sqlite3', 'kdb.local_update', 'kdb.kdbinsert', 'kdb.common', 'kdb.graph', 'networkx', 'networkx.release', 'networkx.exception', 'networkx.utils', 'networkx.utils.misc', 'uuid', '_uuid', 'networkx.utils.decorators', 'decorator', 'inspect', 'dis', 'opcode', '_opcode', 'networkx.utils.random_sequence', 'networkx.utils.union_find', 'networkx.utils.rcm', 'networkx.utils.heaps', 'networkx.utils.contextmanagers', 'networkx.classes', 'networkx.classes.graph', 'networkx.classes.coreviews', 'networkx.classes.reportviews', 'networkx.convert', 'networkx.classes.digraph', 'networkx.classes.multigraph', 'networkx.classes.multidigraph', 'networkx.classes.ordered', 'networkx.classes.function', 'networkx.classes.graphviews', 'networkx.classes.filters', 'networkx.convert_matrix', 'networkx.relabel', 'networkx.generators', 'networkx.generators.atlas', 'gzip', 'networkx.generators.classic', 'networkx.generators.cographs', 'networkx.generators.community', 'scipy', 'scipy._lib', 'scipy._lib._testutils', 'scipy._lib.deprecation', 'scipy._distributor_init', 'scipy.__config__', 'scipy.version', 'scipy._lib._version', 'scipy._lib.six', 'scipy._lib._ccallback', 'scipy._lib._ccallback_c', 'scipy.fft', 'scipy.fft._basic', 'scipy._lib.uarray', 'scipy._lib._uarray', 'scipy._lib._uarray._backend', 'typing', 'typing.io', 'typing.re', 'scipy._lib._uarray._uarray', 'scipy.fft._realtransforms', 'scipy.fft._helper', 'scipy.fft._pocketfft', 'scipy.fft._pocketfft.basic', 'scipy.fft._pocketfft.pypocketfft', 'scipy.fft._pocketfft.helper', 'scipy.fft._pocketfft.realtransforms', 'scipy.fft._backend', 'numpy.dual', 'scipy.special', 'scipy.special.sf_error', 'scipy.special._ufuncs', 'scipy.special._ufuncs_cxx', 'scipy.special._basic', 'scipy.special.specfun', 'scipy.special.orthogonal', 'scipy.linalg', 'scipy.linalg.linalg_version', 'scipy.linalg.misc', 'scipy.linalg.blas', 'scipy.linalg._fblas', 'scipy.linalg.lapack', 'scipy.linalg._flapack', 'scipy._lib._util', 'multiprocessing', 'multiprocessing.context', 'multiprocessing.process', 'multiprocessing.reduction', '__mp_main__', 'scipy.linalg.basic', 'scipy.linalg.flinalg', 'scipy.linalg._flinalg', 'scipy.linalg.decomp', 'scipy.linalg.decomp_svd', 'scipy.linalg._solve_toeplitz', 'scipy.linalg.decomp_lu', 'scipy.linalg._decomp_ldl', 'scipy.linalg.decomp_cholesky', 'scipy.linalg.decomp_qr', 'scipy.linalg._decomp_qz', 'scipy.linalg.decomp_schur', 'scipy.linalg._decomp_polar', 'scipy.linalg.matfuncs', 'scipy.linalg.special_matrices', 'scipy.linalg._expm_frechet', 'scipy.linalg._matfuncs_sqrtm', 'scipy.linalg._solvers', 'scipy.linalg._procrustes', 'scipy.linalg._decomp_update', 'scipy.linalg.cython_blas', 'scipy.linalg.cython_lapack', 'scipy.linalg._sketches', 'scipy.sparse', 'scipy.sparse.base', 'scipy._lib._numpy_compat', 'numpy.testing', 'unittest', 'unittest.result', 'unittest.util', 'unittest.case', 'difflib', 'pprint', 'unittest.suite', 'unittest.loader', 'unittest.main', 'argparse', 'unittest.runner', 'unittest.signals', 'numpy.testing._private', 'numpy.testing._private.utils', 'gc', 'tempfile', 'numpy.testing._private.decorators', 'numpy.testing._private.nosetester', 'scipy.sparse.sputils', 'scipy.sparse.csr', 'scipy.sparse._sparsetools', 'scipy.sparse.compressed', 'scipy.sparse.data', 'scipy.sparse.dia', 'scipy.sparse._index', 'scipy.sparse.csc', 'scipy.sparse.lil', 'scipy.sparse._csparsetools', 'scipy.sparse.dok', 'scipy.sparse.coo', 'scipy.sparse.bsr', 'scipy.sparse.construct', 'scipy.sparse.extract', 'scipy.sparse._matrix_io', 'scipy.sparse.csgraph', 'scipy.sparse.csgraph._laplacian', 'scipy.sparse.csgraph._shortest_path', 'scipy.sparse.csgraph._validation', 'scipy.sparse.csgraph._tools', 'scipy.sparse.csgraph._traversal', 'scipy.sparse.csgraph._min_spanning_tree', 'scipy.sparse.csgraph._flow', 'scipy.sparse.csgraph._matching', 'scipy.sparse.csgraph._reordering', 'scipy.special._comb', 'scipy.special._logsumexp', 'scipy.special.spfun_stats', 'scipy.special._ellip_harm', 'scipy.special._ellip_harm_2', 'scipy.special.lambertw', 'scipy.special._spherical_bessel', 'networkx.generators.degree_seq', 'networkx.generators.directed', 'networkx.generators.duplication', 'networkx.generators.ego', 'networkx.generators.expanders', 'networkx.generators.geometric', 'scipy.spatial', 'scipy.spatial.kdtree', 'scipy.spatial.ckdtree', 'scipy.spatial.qhull', 'scipy._lib.messagestream', 'scipy.spatial._spherical_voronoi', 'scipy.spatial._voronoi', 'scipy.spatial._plotutils', 'scipy._lib.decorator', 'scipy.spatial._procrustes', 'scipy.spatial.distance', 'scipy.spatial._distance_wrap', 'scipy.spatial._hausdorff', 'scipy.spatial.transform', 'scipy.spatial.transform.rotation', 'scipy.spatial.transform._rotation_groups', 'scipy.constants', 'scipy.constants.codata', 'scipy.constants.constants', 'scipy.spatial.transform._rotation_spline', 'networkx.generators.internet_as_graphs', 'networkx.generators.intersection', 'networkx.algorithms', 'networkx.algorithms.assortativity', 'networkx.algorithms.assortativity.connectivity', 'networkx.algorithms.assortativity.correlation', 'networkx.algorithms.assortativity.mixing', 'networkx.algorithms.assortativity.pairs', 'networkx.algorithms.assortativity.neighbor_degree', 'networkx.algorithms.asteroidal', 'networkx.algorithms.boundary', 'networkx.algorithms.bridges', 'networkx.algorithms.chains', 'networkx.algorithms.centrality', 'networkx.algorithms.centrality.betweenness', 'networkx.algorithms.centrality.betweenness_subset', 'networkx.algorithms.centrality.closeness', 'networkx.algorithms.centrality.subgraph_alg', 'networkx.algorithms.centrality.current_flow_closeness', 'networkx.algorithms.centrality.flow_matrix', 'networkx.algorithms.centrality.current_flow_betweenness', 'networkx.algorithms.centrality.current_flow_betweenness_subset', 'networkx.algorithms.centrality.degree_alg', 'networkx.algorithms.centrality.dispersion', 'networkx.algorithms.centrality.eigenvector', 'networkx.algorithms.centrality.group', 'networkx.algorithms.centrality.harmonic', 'networkx.algorithms.centrality.katz', 'networkx.algorithms.centrality.load', 'networkx.algorithms.centrality.reaching', 'networkx.algorithms.centrality.percolation', 'networkx.algorithms.centrality.second_order', 'networkx.algorithms.centrality.voterank_alg', 'networkx.algorithms.chordal', 'networkx.algorithms.components', 'networkx.algorithms.components.connected', 'networkx.algorithms.components.strongly_connected', 'networkx.algorithms.components.weakly_connected', 'networkx.algorithms.components.attracting', 'networkx.algorithms.components.biconnected', 'networkx.algorithms.components.semiconnected', 'networkx.algorithms.cluster', 'networkx.algorithms.clique', 'networkx.algorithms.communicability_alg', 'networkx.algorithms.coloring', 'networkx.algorithms.coloring.greedy_coloring', 'networkx.algorithms.coloring.greedy_coloring_with_interchange', 'networkx.algorithms.coloring.equitable_coloring', 'networkx.algorithms.core', 'networkx.algorithms.covering', 'networkx.algorithms.cycles', 'networkx.algorithms.cuts', 'networkx.algorithms.dag', 'networkx.algorithms.traversal', 'networkx.algorithms.traversal.beamsearch', 'networkx.algorithms.traversal.breadth_first_search', 'networkx.algorithms.traversal.depth_first_search', 'networkx.algorithms.traversal.edgedfs', 'networkx.algorithms.traversal.edgebfs', 'networkx.generators.trees', 'networkx.algorithms.distance_measures', 'networkx.algorithms.distance_regular', 'networkx.algorithms.dominance', 'networkx.algorithms.dominating', 'networkx.algorithms.efficiency_measures', 'networkx.algorithms.euler', 'networkx.algorithms.graphical', 'networkx.algorithms.hierarchy', 'networkx.algorithms.hybrid', 'networkx.algorithms.link_analysis', 'networkx.algorithms.link_analysis.pagerank_alg', 'networkx.algorithms.link_analysis.hits_alg', 'networkx.algorithms.link_prediction', 'networkx.algorithms.lowest_common_ancestors', 'networkx.algorithms.isolate', 'networkx.algorithms.matching', 'networkx.algorithms.minors', 'networkx.algorithms.mis', 'networkx.algorithms.non_randomness', 'networkx.algorithms.operators', 'networkx.algorithms.operators.all', 'networkx.algorithms.operators.binary', 'networkx.algorithms.operators.product', 'networkx.algorithms.operators.unary', 'networkx.algorithms.planarity', 'networkx.algorithms.planar_drawing', 'networkx.algorithms.reciprocity', 'networkx.algorithms.richclub', 'networkx.algorithms.shortest_paths', 'networkx.algorithms.shortest_paths.generic', 'networkx.algorithms.shortest_paths.unweighted', 'networkx.algorithms.shortest_paths.weighted', 'networkx.algorithms.shortest_paths.astar', 'networkx.algorithms.shortest_paths.dense', 'networkx.algorithms.similarity', 'networkx.algorithms.simple_paths', 'networkx.algorithms.smallworld', 'networkx.algorithms.smetric', 'networkx.algorithms.structuralholes', 'networkx.algorithms.sparsifiers', 'networkx.algorithms.swap', 'networkx.algorithms.triads', 'networkx.algorithms.vitality', 'networkx.algorithms.voronoi', 'networkx.algorithms.wiener', 'networkx.algorithms.bipartite', 'networkx.algorithms.bipartite.basic', 'networkx.algorithms.bipartite.centrality', 'networkx.algorithms.bipartite.cluster', 'networkx.algorithms.bipartite.covering', 'networkx.algorithms.bipartite.matching', 'networkx.algorithms.bipartite.matrix', 'networkx.algorithms.bipartite.edgelist', 'networkx.algorithms.bipartite.projection', 'networkx.algorithms.bipartite.redundancy', 'networkx.algorithms.bipartite.spectral', 'networkx.algorithms.bipartite.generators', 'networkx.algorithms.node_classification', 'networkx.algorithms.node_classification.hmn', 'networkx.algorithms.node_classification.utils', 'networkx.algorithms.node_classification.lgc', 'networkx.algorithms.connectivity', 'networkx.algorithms.connectivity.connectivity', 'networkx.algorithms.flow', 'networkx.algorithms.flow.maxflow', 'networkx.algorithms.flow.boykovkolmogorov', 'networkx.algorithms.flow.utils', 'networkx.algorithms.flow.dinitz_alg', 'networkx.algorithms.flow.edmondskarp', 'networkx.algorithms.flow.preflowpush', 'networkx.algorithms.flow.shortestaugmentingpath', 'networkx.algorithms.flow.mincost', 'networkx.algorithms.flow.gomory_hu', 'networkx.algorithms.flow.capacityscaling', 'networkx.algorithms.flow.networksimplex', 'networkx.algorithms.connectivity.utils', 'networkx.algorithms.connectivity.cuts', 'networkx.algorithms.connectivity.edge_augmentation', 'networkx.algorithms.connectivity.edge_kcomponents', 'networkx.algorithms.connectivity.disjoint_paths', 'networkx.algorithms.connectivity.kcomponents', 'networkx.algorithms.connectivity.kcutsets', 'networkx.algorithms.connectivity.stoerwagner', 'networkx.algorithms.community', 'networkx.algorithms.community.asyn_fluid', 'networkx.algorithms.community.centrality', 'networkx.algorithms.community.kclique', 'networkx.algorithms.community.kernighan_lin', 'networkx.algorithms.community.community_utils', 'networkx.algorithms.community.label_propagation', 'networkx.algorithms.community.modularity_max', 'networkx.algorithms.community.quality', 'networkx.utils.mapped_queue', 'networkx.algorithms.isomorphism', 'networkx.algorithms.isomorphism.isomorph', 'networkx.algorithms.isomorphism.vf2userfunc', 'networkx.algorithms.isomorphism.isomorphvf2', 'networkx.algorithms.isomorphism.matchhelpers', 'networkx.algorithms.isomorphism.temporalisomorphvf2', 'networkx.algorithms.isomorphism.ismags', 'networkx.algorithms.tournament', 'networkx.algorithms.tree', 'networkx.algorithms.tree.branchings', 'networkx.algorithms.tree.recognition', 'networkx.algorithms.tree.coding', 'networkx.algorithms.tree.mst', 'networkx.algorithms.tree.operations', 'networkx.generators.joint_degree_seq', 'networkx.generators.lattice', 'networkx.generators.line', 'networkx.generators.mycielski', 'networkx.generators.nonisomorphic_trees', 'networkx.generators.random_clustered', 'networkx.generators.random_graphs', 'networkx.generators.small', 'networkx.generators.social', 'networkx.generators.spectral_graph_forge', 'networkx.generators.stochastic', 'networkx.generators.triads', 'networkx.readwrite', 'networkx.readwrite.adjlist', 'networkx.readwrite.multiline_adjlist', 'networkx.readwrite.edgelist', 'networkx.readwrite.gpickle', 'networkx.readwrite.pajek', 'networkx.readwrite.leda', 'networkx.readwrite.sparse6', 'networkx.readwrite.graph6', 'networkx.readwrite.nx_yaml', 'networkx.readwrite.gml', 'html', 'html.entities', 'networkx.readwrite.graphml', 'xml', 'xml.etree', 'xml.etree.cElementTree', 'xml.etree.ElementTree', 'xml.etree.ElementPath', 'pyexpat.errors', 'pyexpat.model', 'pyexpat', '_elementtree', 'lxml', 'lxml.etree', '_cython_0_29_13', 'lxml._elementpath', 'networkx.readwrite.gexf', 'networkx.readwrite.nx_shp', 'networkx.readwrite.json_graph', 'networkx.readwrite.json_graph.node_link', 'networkx.readwrite.json_graph.adjacency', 'networkx.readwrite.json_graph.tree', 'networkx.readwrite.json_graph.jit', 'json', 'json.decoder', 'json.scanner', '_json', 'json.encoder', 'networkx.readwrite.json_graph.cytoscape', 'networkx.linalg', 'networkx.linalg.attrmatrix', 'networkx.linalg.spectrum', 'networkx.linalg.graphmatrix', 'networkx.linalg.laplacianmatrix', 'networkx.linalg.algebraicconnectivity', 'scipy.sparse.linalg', 'scipy.sparse.linalg.isolve', 'scipy.sparse.linalg.isolve.iterative', 'scipy.sparse.linalg.isolve._iterative', 'scipy.sparse.linalg.interface', 'scipy.sparse.linalg.isolve.utils', 'scipy._lib._threadsafety', 'scipy.sparse.linalg.isolve.minres', 'scipy.sparse.linalg.isolve.lgmres', 'scipy.sparse.linalg.isolve._gcrotmk', 'scipy.sparse.linalg.isolve.lsqr', 'scipy.sparse.linalg.isolve.lsmr', 'scipy.sparse.linalg.dsolve', 'scipy.sparse.linalg.dsolve.linsolve', 'scipy.sparse.linalg.dsolve._superlu', 'scipy.sparse.linalg.dsolve._add_newdocs', 'scipy.sparse.linalg.eigen', 'scipy.sparse.linalg.eigen.arpack', 'scipy.sparse.linalg.eigen.arpack.arpack', 'scipy.sparse.linalg.eigen.arpack._arpack', 'scipy.sparse.linalg.eigen.lobpcg', 'scipy.sparse.linalg.eigen.lobpcg.lobpcg', 'scipy.sparse.linalg.matfuncs', 'scipy.sparse.linalg._expm_multiply', 'scipy.sparse.linalg._onenormest', 'scipy.sparse.linalg._norm', 'networkx.linalg.modularitymatrix', 'networkx.linalg.bethehessianmatrix', 'networkx.testing', 'networkx.testing.utils', 'networkx.testing.test', 'networkx.drawing', 'networkx.drawing.layout', 'networkx.drawing.nx_pylab', 'networkx.drawing.nx_agraph', 'networkx.drawing.nx_pydot', 'matplotlib', 'distutils', 'distutils.version', 'matplotlib.cbook', 'matplotlib.cbook.deprecation', 'matplotlib.rcsetup', 'matplotlib.fontconfig_pattern', 'pyparsing', 'matplotlib.colors', 'matplotlib._color_data', 'cycler', 'six', 'six.moves', 'matplotlib._version', 'matplotlib.ft2font', 'dateutil', 'dateutil._version', 'kiwisolver']
+2020-04-21 10:14:47 DEBUG:matplotlib: CACHEDIR=/home/maiihn/.cache/matplotlib
+2020-04-21 10:14:47 DEBUG:matplotlib.font_manager: Using fontManager instance from /home/maiihn/.cache/matplotlib/fontlist-v310.json
+2020-04-21 10:14:47 DEBUG:matplotlib.pyplot: Loaded backend qt5agg version unknown.
+2020-04-21 10:14:49 DEBUG:matplotlib.pyplot: Loaded backend gtk3agg version unknown.
+2020-04-21 10:14:49 DEBUG:matplotlib.pyplot: Loaded backend GTK3Agg version unknown.
+2020-04-21 10:15:40 INFO:explorer: Registering results
+2020-04-21 10:15:40 INFO:explorer: Processed 0 results
+2020-04-21 10:15:40 DEBUG:explorer: Registered 0.0 results per second
+2020-04-21 10:15:40 INFO:explorer: Queue contains 0 searches
+2020-04-21 10:15:40 INFO:explorer: Making 50 process searches
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:40 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:41 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:41 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:41 INFO:explorer: Made a KDB suggestion
+2020-04-21 10:15:41 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:15:41 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 10:15:41 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:15:41 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 10:15:41 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:15:41 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 10:15:41 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:15:41 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 10:15:41 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:15:41 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 10:15:41 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:15:41 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 10:15:41 INFO:explorer: Created 50 searches
+2020-04-21 10:15:41 DEBUG:explorer: Created 36.36 searches per second
+2020-04-21 10:15:41 INFO:akmc: Currently in state 0 with confidence 0.000000
+2020-04-21 10:15:41 DEBUG:akmc: KMC finished in 0.0013 seconds
+2020-04-21 10:15:41 DEBUG:akmc: 0.00 KMC steps per second
+2020-04-21 13:45:16 INFO:akmc: Eon version svn revision 2446
+
+2020-04-21 13:45:17 INFO:explorer: Registering results
+2020-04-21 13:45:17 INFO:state: Found new lowest barrier 3.276510 for state 0 (type: kdb)
+2020-04-21 13:45:17 INFO:state: Found new barrier 3.276510 for state 0 (type: kdb)
+2020-04-21 13:45:17 INFO:state: Found new lowest barrier 3.263626 for state 0 (type: kdb)
+2020-04-21 13:45:17 INFO:state: Found new barrier 3.263626 for state 0 (type: kdb)
+2020-04-21 13:45:17 INFO:state: Found new barrier 3.349822 for state 0 (type: kdb)
+2020-04-21 13:45:17 INFO:state: Found new barrier 3.351405 for state 0 (type: kdb)
+2020-04-21 13:45:18 INFO:explorer: Processed 50 results
+2020-04-21 13:45:18 DEBUG:explorer: Registered 107.0 results per second
+2020-04-21 13:45:18 INFO:explorer: Queue contains 0 searches
+2020-04-21 13:45:18 INFO:explorer: Making 50 process searches
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:18 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:18 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:18 INFO:explorer: Created 50 searches
+2020-04-21 13:45:18 DEBUG:explorer: Created 55.26 searches per second
+2020-04-21 13:45:18 INFO:akmc: Currently in state 0 with confidence 0.000000
+2020-04-21 13:45:18 DEBUG:akmc: KMC finished in 0.0035 seconds
+2020-04-21 13:45:18 DEBUG:akmc: 0.00 KMC steps per second
+2020-04-21 14:01:33 INFO:akmc: Eon version svn revision 2446
+
+2020-04-21 14:01:33 INFO:explorer: Registering results
+2020-04-21 14:44:26 INFO:akmc: Eon version svn revision 2446
+
+2020-04-21 14:44:27 INFO:explorer: Registering results
+2020-04-21 16:01:53 INFO:akmc: Eon version svn revision 2446
+
+2020-04-21 16:01:54 INFO:explorer: Registering results

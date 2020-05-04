@@ -1,0 +1,15 @@
+6 termination_reason
+708327765 random_seed
+morse_pt potential_type
+1492 total_force_calls
+749 force_calls_minimization
+743 force_calls_saddle
+-1.774135434852e+03 potential_energy_saddle
+-1.775009087267e+03 potential_energy_reactant
+-1.774239741279e+03 potential_energy_product
+0.000000000000e+00 barrier_reactant_to_product
+0.000000000000e+00 barrier_product_to_reactant
+0.000000000000e+00 displacement_saddle_distance
+0 force_calls_prefactors
+0.000000000000e+00 prefactor_reactant_to_product
+0.000000000000e+00 prefactor_product_to_reactant

@@ -1,0 +1,236 @@
+2020-04-21 10:14:44 INFO:akmc: Eon version svn revision 2446
+
+2020-04-21 10:14:44 WARNING:statelist: State list path does not exist; Creating: .//states/
+2020-04-21 10:14:45 INFO:explorer: Registering results
+2020-04-21 10:14:45 INFO:explorer: Processed 0 results
+2020-04-21 10:14:45 DEBUG:explorer: Registered 0.0 results per second
+2020-04-21 10:14:45 INFO:explorer: Queue contains 0 searches
+2020-04-21 10:14:45 INFO:explorer: Making 50 process searches
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 10:14:45 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:45 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 10:14:46 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 10:14:46 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 10:14:46 INFO:explorer: Created 50 searches
+2020-04-21 10:14:46 DEBUG:explorer: Created 55.14 searches per second
+2020-04-21 10:14:46 INFO:akmc: Currently in state 0 with confidence 0.000000
+2020-04-21 10:14:46 DEBUG:akmc: KMC finished in 0.0013 seconds
+2020-04-21 10:14:46 DEBUG:akmc: 0.00 KMC steps per second
+2020-04-21 13:45:21 INFO:akmc: Eon version svn revision 2446
+
+2020-04-21 13:45:22 INFO:explorer: Registering results
+2020-04-21 13:45:22 INFO:state: Found new lowest barrier 3.227729 for state 0 (type: random)
+2020-04-21 13:45:22 INFO:state: Found new barrier 3.227729 for state 0 (type: random)
+2020-04-21 13:45:22 INFO:state: Found new barrier 3.351405 for state 0 (type: random)
+2020-04-21 13:45:22 INFO:state: Found new lowest barrier 0.096920 for state 0 (type: random)
+2020-04-21 13:45:22 INFO:state: Found new barrier 0.096920 for state 0 (type: random)
+2020-04-21 13:45:22 INFO:explorer: Processed 50 results
+2020-04-21 13:45:22 DEBUG:explorer: Registered 142.6 results per second
+2020-04-21 13:45:22 INFO:explorer: Queue contains 0 searches
+2020-04-21 13:45:22 INFO:explorer: Making 50 process searches
+2020-04-21 13:45:22 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 4
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 0
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 6
+2020-04-21 13:45:23 DEBUG:displace: Made least-coordinated displacement
+2020-04-21 13:45:23 DEBUG:displace: Displacement epicenter: 2
+2020-04-21 13:45:23 INFO:explorer: Created 50 searches
+2020-04-21 13:45:23 DEBUG:explorer: Created 54.18 searches per second
+2020-04-21 13:45:23 INFO:akmc: Currently in state 0 with confidence 0.000000
+2020-04-21 13:45:23 DEBUG:akmc: KMC finished in 0.0057 seconds
+2020-04-21 13:45:23 DEBUG:akmc: 0.00 KMC steps per second
+2020-04-21 14:01:27 INFO:akmc: Eon version svn revision 2446
+
+2020-04-21 14:01:27 INFO:explorer: Registering results
+2020-04-21 14:42:42 INFO:akmc: Eon version svn revision 2446
+
+2020-04-21 14:42:42 INFO:explorer: Registering results
