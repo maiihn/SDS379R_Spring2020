@@ -69,7 +69,7 @@ Two folders each contain:
 
 
 B. Analysis Process
-https://github.com/maiihn/SDS379R_Spring2020/Analysis_process
+https://github.com/maiihn/SDS379R_Spring2020/tree/master/Analysis_process
 Environment: Jupyter Notebook
 Server: Local
 
