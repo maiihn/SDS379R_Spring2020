@@ -3,7 +3,7 @@ The repository contains two main folders: Extraction Process and Analysis Proces
 
 
 A. Extraction Process
-https://github.com/maiihn/SDS379R_Spring2020/Extraction_process
+https://github.com/maiihn/SDS379R_Spring2020/tree/master/Extraction_process
 Environment: Terminal
 Server: fri.oden.utexas.edu using ssh
 
@@ -11,7 +11,7 @@ Server: fri.oden.utexas.edu using ssh
 
 a) Test 1: Three saddle search condition
 
-- Three folders:
+- Three folders: contain materials for calculation in EON (not included in Github due to heavy memory)
 https://github.com/maiihn/SDS379R_Spring2020/tree/master/Extraction_process/pt-system/akmc-pt-ransearch
 https://github.com/maiihn/SDS379R_Spring2020/tree/master/Extraction_process/pt-system/akmc-pt-onlykdb
 https://github.com/maiihn/SDS379R_Spring2020/tree/master/Extraction_process/pt-system/akmc-pt-kdbransearch
@@ -41,10 +41,10 @@ b) Test 2: Six different configuration
   https://github.com/maiihn/SDS379R_Spring2020/tree/master/Extraction_process/pt-system/newtest/one_hexamer
   
   Six folders each contain:
-  - 10 states from 0 to 9
+  - 10 states from 0 to 9 (not included due to heavy memory)
   - export.py module : contain functions to export
-  - saddle_info.py : contain saddle information
-  - state_info.py : contain force call and number of saddles information about state
+  - saddle_info.py : export saddle information
+  - state_info.py : export force call and number of saddles information about state
   - OUTPUT folder : contain output
   
   
@@ -59,10 +59,10 @@ b) Bridge-site
 https://github.com/maiihn/SDS379R_Spring2020/tree/master/Extraction_process/al-system/onestate/bridge_site
 
 Two folders each contain:
-- 10 states from 0 to 9
+- 10 states from 0 to 9 (not included due to heavy memory)
 - export.py module : contain functions to export
-- saddle_info.py : contain saddle information
-- state_info.py : contain force call and number of saddles information about state
+- saddle_info.py : export saddle information
+- state_info.py : export force call and number of saddles information about state
 - OUTPUT folder : contain output
 
 
@@ -77,7 +77,7 @@ Server: Local
 
 a) Test 1: Three saddle search condition
 
-- Three folders: each contain force call information
+- Three folders: each contain force call information output in Extraction process
 https://github.com/maiihn/SDS379R_Spring2020/tree/master/Analysis_process/Pt-system/akmc-pt-ransearch
 https://github.com/maiihn/SDS379R_Spring2020/tree/master/Analysis_process/Pt-system/akmc-pt-onlykdb
 https://github.com/maiihn/SDS379R_Spring2020/tree/master/Analysis_process/Pt-system/akmc-pt-kdbransearch
