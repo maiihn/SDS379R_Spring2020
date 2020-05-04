@@ -9,7 +9,7 @@ Server: fri.oden.utexas.edu using ssh
 
 1. Pt-system: https://github.com/maiihn/SDS379R_Spring2020/tree/master/Extraction_process/pt-system
 
-a) Test 1: Three saddle search condition
+a) Test 1: Three saddle search conditions
 
 - Three folders: contain materials for calculation in EON (not included in Github due to heavy memory)
 https://github.com/maiihn/SDS379R_Spring2020/tree/master/Extraction_process/pt-system/akmc-pt-ransearch
